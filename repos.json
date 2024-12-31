@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "r8q-KernelSU-Next-SusFs-4.19",
+      "repo": "https://github.com/Kingslayer9988/android_kernel_samsung_sm8250",
+      "branch": "lineage-21",
+      "device": "r8q"
     },
     "withKernelSU": true,
     "toolchains": [
